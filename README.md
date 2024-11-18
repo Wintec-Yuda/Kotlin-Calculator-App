@@ -18,5 +18,5 @@ A simple calculator app built using **Kotlin** and **Jetpack Compose**.
 
 ### Clone the Repository
 ```bash
-git clone https://github.com/your-username/kotlin-calculator-app.git
+git clone https://github.com/Wintec-Yuda/Kotlin-Calculator-App
 cd kotlin-calculator-app
